@@ -11,3 +11,4 @@ Esta pasta contém os conteúdos detalhados de `HTML`.
 - ### `exemplo_03`: [VS Code Auto Generated Page Struture](https://github.com/pullynnhah/dc-aulas/tree/main/aula_01/exemplo_03)
 - ### `exemplo_04`: [Text's Tags](https://github.com/pullynnhah/dc-aulas/tree/main/aula_01/exemplo_04)
 - ### `exemplo_05`: [Navigating Between Paths](https://github.com/pullynnhah/dc-aulas/tree/main/aula_01/exemplo_05)
+- ### `exemplo_06`: [Anchor Tag](https://github.com/pullynnhah/dc-aulas/tree/main/aula_01/exemplo_06)
