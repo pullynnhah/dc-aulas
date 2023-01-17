@@ -14,3 +14,5 @@ Esta pasta contém os conteúdos detalhados de `HTML`.
 - ### `exemplo_06`: [Anchor Tag](https://github.com/pullynnhah/dc-aulas/tree/main/aula_01/exemplo_06)
 - ### `exemplo_07`: [Lists](https://github.com/pullynnhah/dc-aulas/tree/main/aula_01/exemplo_07)
 - ### `exemplo_08`: [div & span](https://github.com/pullynnhah/dc-aulas/tree/main/aula_01/exemplo_08)
+- ### `exemplo_09`: [Images](https://github.com/pullynnhah/dc-aulas/tree/main/aula_01/exemplo_09)
+- ### `exemplo_10`: [Challenge](https://github.com/pullynnhah/dc-aulas/tree/main/aula_01/exemplo_10)
