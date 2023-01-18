@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Inputs</title>
+  </head>
+  <body>
+    <h1>Inputs</h1>
+    <div>
+      <h2>Inputs - Part 1</h2>
+
+      <h3>Basic</h3>
+      <input />
+
+      <h3>Autocomplete</h3>
+      <input autocomplete="name" />
+
+      <h3>Disabled</h3>
+      <input disabled />
+      <input disabled value="Paula" />
+
+      <h3>Read-Only</h3>
+      <input readonly value="Paula" />
+
+      <h3>Placeholder</h3>
+      <input placeholder="Enter your name" />
+
+      <h3>Labels</h3>
+      <label>
+        Name:
+        <input autofocus />
+      </label>
+
+      <label for="name">Name</label>
+      <input id="name" />
+    </div>
+
+    <div>
+      <h2>Inputs - Part 2</h2>
+
+      <h3>Color</h3>
+      <input type="color" />
+
+      <h3>Range</h3>
+      <input type="range" min="0" max="100" value="50" />
+    </div>
+
+    <div>
+      <h2>Inputs - Part 3</h2>
+
+      <h3>Password</h3>
+      <input type="password" />
+
+      <h3>E-mail</h3>
+      <input type="email" />
+
+      <h3>Checkbox</h3>
+      <label>
+        Do you want to subscribe?
+        <input type="checkbox" />
+      </label>
+
+      <h3>Files</h3>
+      <input type="file" />
+      <input type="file" multiple />
+      <input type="file" multiple accept="image/*" />
+
+      <h3>Number</h3>
+      <input type="number" />
+
+      <h3>Date</h3>
+      <input type="date" />
+
+      <h3>Radio</h3>
+      <div>
+        <h4>What's your favorite social media?</h4>
+
+        <div>
+          <input type="radio" name="social-media" id="facebook" />
+          <label for="facebook">Facebook</label>
+        </div>
+        <div>
+          <input type="radio" name="social-media" id="instagram" />
+          <label for="instagram">Instagram</label>
+        </div>
+        <div>
+          <input type="radio" name="social-media" id="twitter" />
+          <label for="twitter">Twitter</label>
+        </div>
+        <div>
+          <input type="radio" name="social-media" id="youtube" />
+          <label for="youtube">Youtube</label>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
