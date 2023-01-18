@@ -1,0 +1,72 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  width: 200vw;
+  height: 200vh;
+}
+
+.container {
+  width: 500px;
+  height: 500px;
+  display: inline-block;
+}
+
+.container-1 {
+  background: plum;
+}
+
+.parent {
+  width: 350px;
+  height: 350px;
+  background: deepskyblue;
+}
+
+.container-1 .parent {
+  opacity: 0.6;
+
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+
+.container-2 {
+  background: greenyellow;
+  position: relative;
+}
+
+.container-2 .parent {
+  opacity: 0.6;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+
+.container-3 {
+  background-color: firebrick;
+}
+
+.container-3 .child {
+  width: 100px;
+  height: 100px;
+  background: deeppink;
+
+  opacity: 0.4;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+
+.box {
+  width: 150px;
+  height: 150px;
+}
+
+.child {
+  background: tomato;
+}
+
+.sibling {
+  background: gold;
+}

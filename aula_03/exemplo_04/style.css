@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  width: 200vw;
+  height: 200vh;
+}
+
+.parent {
+  width: 350px;
+  height: 350px;
+  background: deepskyblue;
+
+  margin: 200px;
+  position: sticky;
+  top: 20px;
+  left: 20px;
+}
+
+.box {
+  width: 150px;
+  height: 150px;
+}
+
+.child {
+  background: tomato;
+}
+
+.sibling {
+  background: gold;
+}
