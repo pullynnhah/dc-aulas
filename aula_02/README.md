@@ -23,3 +23,5 @@ Esta pasta contém os conteúdos detalhados de `CSS`.
 - ### `exemplo_15`: [display](https://github.com/pullynnhah/dc-aulas/tree/main/aula_03/exemplo_15)
 
 - ### `exemplo_16`: [Project](https://github.com/pullynnhah/dc-aulas/tree/main/aula_03/exemplo_16)
+
+- ### `exemplo_17`: [Challenge](https://github.com/pullynnhah/dc-aulas/tree/main/aula_03/exemplo_17)
