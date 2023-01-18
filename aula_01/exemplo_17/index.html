@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Semantic HTML</title>
+  </head>
+  <body>
+    <header>
+      <h1>Semantic HTML</h1>
+    </header>
+
+    <main>
+      <section aria-labelledby="header">
+        <h2 id="header">Header</h2>
+        <p>
+          The header tag defines content that should be considered the introductory information of a
+          page or section
+        </p>
+      </section>
+
+      <section aria-labelledby="nav">
+        <h2 id="nav">Nav</h2>
+        <p>
+          The navigation tag is used for navigation links. It can be nested within the
+          <strong>header</strong> tag, but secondary navigation <strong>nav</strong> tags are also
+          commonly used elsewhere on the page.
+        </p>
+      </section>
+
+      <section aria-labelledby="main">
+        <h2 id="main">Main</h2>
+        <p>
+          This tag contains the main content (also called the body) of a page. There should be only
+          one tag per page.
+        </p>
+      </section>
+      <section aria-labelledby="article">
+        <h2 id="article">Article</h2>
+        <p>
+          The article tag defines content that could stand independently of the page or site it's
+          on. It does not necessarily mean a “blog post.” Think of it more as “an article of
+          clothing”—a self-contained item that can be used in various contexts.
+        </p>
+      </section>
+
+      <section aria-labelledby="section">
+        <h2 id="section">Section</h2>
+        <p>
+          Using <strong>section</strong> is a way of grouping nearby content of a similar theme. A
+          section tag differs from an article tag. It isn't necessarily self-contained, but it forms
+          part of something else.
+        </p>
+      </section>
+
+      <section aria-lablledby="aside">
+        <h2 id="aside">Aside</h2>
+        <p>
+          An aside element defines content that’s less important. It’s often used for sidebars—areas
+          that add complementary but nonessential information.
+        </p>
+      </section>
+
+      <section aria-labelledby="footer">
+        <h2 id="footer">Footer</h2>
+        <p>
+          You use <strong>footer</strong> at the bottom of a page. It usually includes contact
+          information, copyright information, and some site navigation.
+        </p>
+      </section>
+    </main>
+    <footer>
+      <p>
+        More info:
+        <a href="https://www.w3.org/TR/2009/WD-html5-20090825/semantics.html#sections">W3C</a>
+      </p>
+    </footer>
+  </body>
+</html>

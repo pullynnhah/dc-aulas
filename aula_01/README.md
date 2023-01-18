@@ -22,3 +22,4 @@ Esta pasta contém os conteúdos detalhados de `HTML`.
 - ### `exemplo_14`: [Input Tags](https://github.com/pullynnhah/dc-aulas/tree/main/aula_01/exemplo_14)
 - ### `exemplo_15`: [Form Tag](https://github.com/pullynnhah/dc-aulas/tree/main/aula_01/exemplo_15)
 - ### `exemplo_16`: [Button Tag](https://github.com/pullynnhah/dc-aulas/tree/main/aula_01/exemplo_16)
+- ### `exemplo_17`: [Semantic HTML](https://github.com/pullynnhah/dc-aulas/tree/main/aula_01/exemplo_17)
