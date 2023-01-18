@@ -1,0 +1,45 @@
+body {
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+div {
+  width: 100px;
+  height: 100px;
+}
+
+.box-1 {
+  background: #ff1493;
+  padding: 50px;
+  margin: 20px;
+}
+
+.box-2 {
+  background: #9932cc;
+  margin: 100px;
+}
+
+.box-3 {
+  background: #ffdb64;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  padding-right: 10px;
+  padding-left: 5px;
+
+  margin-top: 20px;
+  margin-bottom: 30px;
+  margin-right: 10px;
+  margin-left: 5px;
+}
+
+.box-4 {
+  background: #64acff;
+  padding: 20px 10px 30px 5px;
+  margin: 20px 10px 30px 5px;
+}
+
+.box-5 {
+  background: #00ed77;
+  padding: 20px 50px 30px;
+  margin: 100px 50px;
+}
