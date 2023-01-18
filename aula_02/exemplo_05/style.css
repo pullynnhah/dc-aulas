@@ -1,0 +1,20 @@
+.red {
+  color: rgb(255 0 0);
+}
+
+.green {
+  color: rgb(0 255 0);
+}
+
+.blue {
+  color: rgb(0 0 255);
+}
+
+.mix {
+  color: rgb(250 120 60);
+}
+
+.default {
+  background: rgb(0 0 0);
+  color: rgb(255 255 255);
+}
