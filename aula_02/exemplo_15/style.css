@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+div {
+  width: 150px;
+  height: 150px;
+  margin: 40px;
+}
+
+.container {
+  height: 150px;
+}
+.box-block {
+  display: block;
+}
+
+.box-inline {
+  display: inline;
+}
+
+.box-inline-block {
+  display: inline-block;
+}
+
+.box-1 {
+  background: #ff1493;
+}
+
+.box-2 {
+  background: #9932cc;
+}
+
+.box-3 {
+  background: #ff6200;
+}
