@@ -1,0 +1,91 @@
+* {
+  box-sizing: border-box;
+  font-family: sans-serif;
+  font-size: 1.5rem;
+}
+
+/* The order of the pseudo-selectors is important! */
+p {
+  color: crimson;
+}
+
+a {
+  color: deepskyblue;
+  text-decoration: none;
+}
+
+a:visited {
+  color: green;
+}
+
+a:hover {
+  color: hotpink;
+}
+
+a:active {
+  color: tomato;
+}
+
+input:checked {
+  width: 50px;
+  height: 50px;
+}
+
+input:focus {
+  outline: none;
+  border: 2px dashed deepskyblue;
+}
+
+input:read-only {
+  color: gold;
+}
+
+input:disabled {
+  color: plum;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  background: deepskyblue;
+  margin: 10px;
+}
+
+.box:empty {
+  background: fuchsia;
+}
+
+li:first-child {
+  color: deeppink;
+}
+
+li:nth-child(2) {
+  color: aqua;
+}
+
+li:nth-last-child(2) {
+  color: goldenrod;
+}
+
+li:last-child {
+  color: chartreuse;
+}
+
+.container div {
+  background: pink;
+}
+
+span:first-of-type,
+p:first-of-type {
+  color: purple;
+}
+
+span:last-of-type,
+p:last-of-type {
+  color: firebrick;
+}
+
+.container div :not(.world) {
+  text-decoration: underline;
+  font-weight: bold;
+}
