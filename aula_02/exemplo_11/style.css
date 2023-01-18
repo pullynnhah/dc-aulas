@@ -1,0 +1,25 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+h1 {
+  color: crimson;
+  font-size: 64px;
+}
+
+p {
+  color: deepskyblue;
+  font-size: 30px;
+}
+
+.thin {
+  font-weight: 100;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.bolder {
+  font-weight: 900;
+}

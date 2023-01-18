@@ -16,3 +16,5 @@ Esta pasta contém os conteúdos detalhados de `CSS`.
 - ### `exemplo_08`: [Relative Units: %](https://github.com/pullynnhah/dc-aulas/tree/main/aula_03/exemplo_08)
 - ### `exemplo_09`: [Relative Units: vw/vh](https://github.com/pullynnhah/dc-aulas/tree/main/aula_03/exemplo_09)
 - ### `exemplo_10`: [Relative Units: em/rem](https://github.com/pullynnhah/dc-aulas/tree/main/aula_03/exemplo_10)
+- ### `exemplo_11`: [Text Properties 1](https://github.com/pullynnhah/dc-aulas/tree/main/aula_03/exemplo_11)
+- ### `exemplo_12`: [Text Properties 2](https://github.com/pullynnhah/dc-aulas/tree/main/aula_03/exemplo_12)
