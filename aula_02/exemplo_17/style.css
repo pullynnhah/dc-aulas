@@ -23,10 +23,11 @@ nav a {
 button {
   width: 124px;
   height: 51px;
+  color: #fff;
   background: #6fbf44;
   border: 1px solid #4cb538;
+
   border-radius: 6px;
-  color: #fff;
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
