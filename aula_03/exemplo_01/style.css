@@ -1,0 +1,13 @@
+* {
+  font-family: sans-serif;
+}
+
+.paragraph-1 {
+  color: hotpink;
+  color: deepskyblue;
+}
+
+.paragraph-2 {
+  color: hotpink !important;
+  color: deepskyblue;
+}
