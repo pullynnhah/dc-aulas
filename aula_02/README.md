@@ -1,8 +1,8 @@
-# CSS
+# CSS - Part 1
 
 ## Sobre
 
-Esta pasta contém os conteúdos detalhados de `CSS`.
+Esta pasta contém os conteúdos detalhados do módulo de `CSS - Parte 1`.
 
 ## Conteúdos
 
