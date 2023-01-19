@@ -17,5 +17,5 @@ Esta pasta contém os conteúdos detalhados do módulo de `CSS - Parte 2`.
 - ### `exemplo_09`: [Responsiveness](https://github.com/pullynnhah/dc-aulas/tree/main/aula_03/exemplo_09)
 - ### `exemplo_10`: [Project](https://github.com/pullynnhah/dc-aulas/tree/main/aula_03/exemplo_10)
 - ### `exemplo_11`: [Challenge](https://github.com/pullynnhah/dc-aulas/tree/main/aula_03/exemplo_11)
-
 - ### `exemplo_12`: [Challenge](https://github.com/pullynnhah/dc-aulas/tree/main/aula_03/exemplo_12)
+- ### `exemplo_13`: [calc](https://github.com/pullynnhah/dc-aulas/tree/main/aula_03/exemplo_13)
