@@ -19,3 +19,4 @@ Esta pasta contém os conteúdos detalhados do módulo de `JavaScript - Parte 1`
 - ### `exemplo_11`: [Assignment Operators](https://github.com/pullynnhah/dc-aulas/tree/main/aula_04/exemplo_11)
 - ### `exemplo_12`: [Comparison Operators](https://github.com/pullynnhah/dc-aulas/tree/main/aula_04/exemplo_12)
 - ### `exemplo_13`: [Logical Operators](https://github.com/pullynnhah/dc-aulas/tree/main/aula_04/exemplo_13)
+- ### `exemplo_14`: [Ternary Operator](https://github.com/pullynnhah/dc-aulas/tree/main/aula_04/exemplo_14)
