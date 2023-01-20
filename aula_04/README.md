@@ -17,3 +17,4 @@ Esta pasta contém os conteúdos detalhados do módulo de `JavaScript - Parte 1`
 - ### `exemplo_09`: [Challenge](https://github.com/pullynnhah/dc-aulas/tree/main/aula_04/exemplo_09)
 - ### `exemplo_10`: [Arithmetic Operators](https://github.com/pullynnhah/dc-aulas/tree/main/aula_04/exemplo_10)
 - ### `exemplo_11`: [Assignment Operators](https://github.com/pullynnhah/dc-aulas/tree/main/aula_04/exemplo_11)
+- ### `exemplo_12`: [Comparison Operators](https://github.com/pullynnhah/dc-aulas/tree/main/aula_04/exemplo_12)
