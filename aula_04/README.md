@@ -23,4 +23,7 @@ Esta pasta contém os conteúdos detalhados do módulo de `JavaScript - Parte 1`
 - ### `exemplo_15`: [typeof & delete](https://github.com/pullynnhah/dc-aulas/tree/main/aula_04/exemplo_15)
 - ### `exemplo_16`: [Conditionals: if - else](https://github.com/pullynnhah/dc-aulas/tree/main/aula_04/exemplo_16)
 - ### `exemplo_17`: [Conditionals: else if](https://github.com/pullynnhah/dc-aulas/tree/main/aula_04/exemplo_17)
-- ### `exemplo_18`: [Conditionals: switch case](https://github.com/pullynnhah/dc-aulas/tree/main/aula_04/exemplo_17)
+- ### `exemplo_18`: [Conditionals: switch case](https://github.com/pullynnhah/dc-aulas/tree/main/aula_04/exemplo_18)
+
+- ### `exemplo_19`: [for](https://github.com/pullynnhah/dc-aulas/tree/main/aula_04/exemplo_19)
+- ### `exemplo_20`: [while](https://github.com/pullynnhah/dc-aulas/tree/main/aula_04/exemplo_20)
