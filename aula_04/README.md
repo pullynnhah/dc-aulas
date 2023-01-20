@@ -22,3 +22,4 @@ Esta pasta contém os conteúdos detalhados do módulo de `JavaScript - Parte 1`
 - ### `exemplo_14`: [Ternary Operator](https://github.com/pullynnhah/dc-aulas/tree/main/aula_04/exemplo_14)
 - ### `exemplo_15`: [typeof & delete](https://github.com/pullynnhah/dc-aulas/tree/main/aula_04/exemplo_15)
 - ### `exemplo_16`: [Conditionals: if - else](https://github.com/pullynnhah/dc-aulas/tree/main/aula_04/exemplo_16)
+- ### `exemplo_17`: [Conditionals: else if](https://github.com/pullynnhah/dc-aulas/tree/main/aula_04/exemplo_17)
