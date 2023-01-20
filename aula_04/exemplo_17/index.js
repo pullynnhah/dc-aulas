@@ -1,7 +1,22 @@
-const score = Math.floor(Math.random() * 101);
-console.log(score);
-if (score >= 90) console.log("A");
-else if (score >= 80) console.log("B");
-else if (score >= 70) console.log("C");
-else if (score >= 60) console.log("D");
-else console.log("F");
+const index = Math.floor(Math.random() * 5);
+const grade = "ABCDF"[index];
+
+console.log(grade);
+
+switch (grade) {
+  case "A":
+    console.log("score >= 90");
+    break;
+  case "B":
+    console.log("score >= 80");
+    break;
+  case "C":
+    console.log("score >= 70");
+    break;
+  case "D":
+    console.log("score >= 60");
+    break;
+  default:
+    console.log("score < 60");
+    break;
+}
