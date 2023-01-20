@@ -20,3 +20,4 @@ Esta pasta contém os conteúdos detalhados do módulo de `JavaScript - Parte 1`
 - ### `exemplo_12`: [Comparison Operators](https://github.com/pullynnhah/dc-aulas/tree/main/aula_04/exemplo_12)
 - ### `exemplo_13`: [Logical Operators](https://github.com/pullynnhah/dc-aulas/tree/main/aula_04/exemplo_13)
 - ### `exemplo_14`: [Ternary Operator](https://github.com/pullynnhah/dc-aulas/tree/main/aula_04/exemplo_14)
+- ### `exemplo_15`: [typeof & delete](https://github.com/pullynnhah/dc-aulas/tree/main/aula_04/exemplo_15)
