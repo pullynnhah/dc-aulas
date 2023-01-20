@@ -10,4 +10,6 @@ Esta pasta contém os conteúdos detalhados do módulo de `JavaScript - Parte 1`
 - ### `exemplo_02`: [Variables](https://github.com/pullynnhah/dc-aulas/tree/main/aula_04/exemplo_02)
 - ### `exemplo_03`: [Strings](https://github.com/pullynnhah/dc-aulas/tree/main/aula_04/exemplo_03)
 - ### `exemplo_04`: [Numbers](https://github.com/pullynnhah/dc-aulas/tree/main/aula_04/exemplo_04)
-- ### `exemplo\_05`: [Objects](https://github.com/pullynnhah/dc-aulas/tree/main/aula_04/exemplo_05)
+- ### `exemplo_05`: [Objects](https://github.com/pullynnhah/dc-aulas/tree/main/aula_04/exemplo_05)
+- ### `exemplo_06`: [Booleans](https://github.com/pullynnhah/dc-aulas/tree/main/aula_04/exemplo_06)
+- ### `exemplo_07`: [Arrays](https://github.com/pullynnhah/dc-aulas/tree/main/aula_04/exemplo_07)
