@@ -13,3 +13,5 @@ Esta pasta contém os conteúdos detalhados do módulo de `JavaScript - Parte 1`
 - ### `exemplo_05`: [Objects](https://github.com/pullynnhah/dc-aulas/tree/main/aula_04/exemplo_05)
 - ### `exemplo_06`: [Booleans](https://github.com/pullynnhah/dc-aulas/tree/main/aula_04/exemplo_06)
 - ### `exemplo_07`: [Arrays](https://github.com/pullynnhah/dc-aulas/tree/main/aula_04/exemplo_07)
+- ### `exemplo_08`: [Math Module](https://github.com/pullynnhah/dc-aulas/tree/main/aula_04/exemplo_08)
+- ### `exemplo_09`: [Challenge](https://github.com/pullynnhah/dc-aulas/tree/main/aula_04/exemplo_09)
