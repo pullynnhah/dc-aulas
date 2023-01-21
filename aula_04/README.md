@@ -29,3 +29,4 @@ Esta pasta contém os conteúdos detalhados do módulo de `JavaScript - Parte 1`
 - ### `exemplo_20`: [while](https://github.com/pullynnhah/dc-aulas/tree/main/aula_04/exemplo_20)
 - ### `exemplo_21`: [for of](https://github.com/pullynnhah/dc-aulas/tree/main/aula_04/exemplo_21)
 - ### `exemplo_22`: [for in](https://github.com/pullynnhah/dc-aulas/tree/main/aula_04/exemplo_22)
+- ### `exemplo_23`: [Challenge](https://github.com/pullynnhah/dc-aulas/tree/main/aula_04/exemplo_23)
