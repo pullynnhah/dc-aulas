@@ -19,3 +19,5 @@ Esta pasta contém os conteúdos detalhados do módulo de `JavaScript - Parte 2`
 - ### `exemplo_11`: [Challenge](https://github.com/pullynnhah/dc-aulas/tree/main/aula_05/exemplo_11)
 - ### `exemplo_12`: [filter](https://github.com/pullynnhah/dc-aulas/tree/main/aula_05/exemplo_12)
 - ### `exemplo_13`: [Challenge](https://github.com/pullynnhah/dc-aulas/tree/main/aula_05/exemplo_13)
+- ### `exemplo_14`: [reduce](https://github.com/pullynnhah/dc-aulas/tree/main/aula_05/exemplo_14)
+- ### `exemplo_15`: [Challenge](https://github.com/pullynnhah/dc-aulas/tree/main/aula_05/exemplo_15)
