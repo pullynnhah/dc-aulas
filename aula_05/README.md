@@ -15,3 +15,4 @@ Esta pasta contém os conteúdos detalhados do módulo de `JavaScript - Parte 2`
 - ### `exemplo_07`: [Challenge](https://github.com/pullynnhah/dc-aulas/tree/main/aula_05/exemplo_07)
 - ### `exemplo_08`: [Array methods](https://github.com/pullynnhah/dc-aulas/tree/main/aula_05/exemplo_08)
 - ### `exemplo_09`: [forEach](https://github.com/pullynnhah/dc-aulas/tree/main/aula_05/exemplo_09)
+- ### `exemplo_10`: [forEach](https://github.com/pullynnhah/dc-aulas/tree/main/aula_05/exemplo_10)
