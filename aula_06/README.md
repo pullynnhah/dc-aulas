@@ -14,4 +14,5 @@ Esta pasta contém os conteúdos detalhados do módulo de `JavaScript - Parte 2`
 - ### `exemplo_06`: [Manipulating styles](https://github.com/pullynnhah/dc-aulas/tree/main/aula_06/exemplo_06)
 - ### `exemplo_07`: [Events](https://github.com/pullynnhah/dc-aulas/tree/main/aula_06/exemplo_07)
 - ### `exemplo_08`: [Events' properties](https://github.com/pullynnhah/dc-aulas/tree/main/aula_06/exemplo_08)
-- ### `exemplo_08`: [addEventListener](https://github.com/pullynnhah/dc-aulas/tree/main/aula_06/exemplo_08)
+- ### `exemplo_09`: [addEventListener](https://github.com/pullynnhah/dc-aulas/tree/main/aula_06/exemplo_09)
+- ### `exemplo_10`: [Project](https://github.com/pullynnhah/dc-aulas/tree/main/aula_06/exemplo_10)

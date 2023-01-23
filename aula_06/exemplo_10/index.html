@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="stylesheet" href="./styles/style.css" />
+    <link rel="stylesheet" href="./styles/reset.css" />
+
+    <title>Convert Money</title>
+  </head>
+  <body>
+    <header>
+      <h1>CodeClub Convert Money</h1>
+    </header>
+    <main>
+      <div>
+        <label for="from">Converter <b>de</b></label>
+        <select name="from" id="from">
+          <option value="real">R$ Real brasileiro</option>
+          <option value="dollar">US$ Dólar americano</option>
+          <option value="euro">€ Euro</option>
+          <option value="bitcoin">BitCoin</option>
+        </select>
+      </div>
+      <div>
+        <label for="to">Converter <b>para</b></label>
+        <select name="to" id="to">
+          <option value="real">R$ Real brasileiro</option>
+          <option value="dollar">US$ Dólar americano</option>
+          <option value="euro">€ Euro</option>
+          <option value="bitcoin">BitCoin</option>
+        </select>
+      </div>
+      <div>
+        <label for="value"><b>Valor</b></label>
+        <div class="value-container">
+          <span class="sign">R$</span>
+          <input name="value" id="value" placeholder="10.000,00" />
+        </div>
+      </div>
+      <button>Converter</button>
+
+      <div class="result">
+        <div class="from-container">
+          <img class="flag" src="./assets/brazil.svg" alt="brazil's flag" />
+          <p>Real brasileiro</p>
+          <strong></strong>
+        </div>
+
+        <img src="./assets/arrow.svg" alt="arrow down" />
+
+        <div class="to-container">
+          <img class="flag" src="./assets/brazil.svg" alt="brazil's flag" />
+          <p>Real brasileiro</p>
+          <strong></strong>
+        </div>
+      </div>
+    </main>
+    <script src="script.js"></script>
+  </body>
+</html>
