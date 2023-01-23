@@ -1,8 +1,8 @@
-# Javascript - Part 1
+# Javascript - Web
 
 ## Sobre
 
-Esta pasta contém os conteúdos detalhados do módulo de `JavaScript - Parte 2`.
+Esta pasta contém os conteúdos detalhados do módulo de `JavaScript - Web`.
 
 ## Conteúdos
 
