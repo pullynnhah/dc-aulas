@@ -33,7 +33,13 @@ const getOrders = (req, res) => res.json(orders_db);
 const putOrder = (req, res) => {
   const index = req.orderIndex;
   const { order, clientName, price } = req.body;
-  const { id, status, oldOrder, oldClientName, oldPrice } = orders_db[index];
+  const {
+    id,
+    status,
+    order: oldOrder,
+    clientName: oldClientName,
+    price: oldPrice
+  } = orders_db[index];
   orders_db[index] = {
     id,
     status,
