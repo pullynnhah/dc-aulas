@@ -7,3 +7,4 @@ Esta pasta contém os conteúdos detalhados do módulo de `JavaScript - Avançad
 ## Conteúdos
 
 - ### `exemplo_01`: [var vs let vs const](https://github.com/pullynnhah/dc-aulas/tree/main/aula_08/exemplo_01)
+- ### `exemplo_02`: [modules](https://github.com/pullynnhah/dc-aulas/tree/main/aula_08/exemplo_02)
